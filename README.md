@@ -1,4 +1,4 @@
-# Hi, I'm Andrea ✨
+# Hi, I'm Andrea 🪄
 
 ### 🌍 Data Analytics | Data Engineering | Business Intelligence | Customer Analytics | Customer Operations Expertise | International Experience 
 
