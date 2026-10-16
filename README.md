@@ -8,7 +8,7 @@ I completed intensive, hands on Data Analyst and Data Engineering bootcamps, bui
 
 I enjoy combining my Customer Operations expertise with technical data skills to transform raw data into meaningful insights, improve business processes and support data driven decision making. With international experience across e commerce, SaaS and retail, I've developed an understanding of different business models, customer needs and operational challenges. I'm motivated by new challenges and particularly enjoy exploring unfamiliar industries, learning new things and bringing a fresh perspective to the teams I work with. I believe that combining curiosity, adaptability and analytical thinking can create value for any business.
 
-## ⚙️ Technical Skills
+## ⚙️ Technical skills
 
 **Programming & Data Analysis**
 - Python
@@ -61,7 +61,7 @@ I enjoy combining my Customer Operations expertise with technical data skills to
 - Business Performance Analysis
 - Process Improvement
 
-## 🧩 Professional Background
+## 🧩 Professional background
 
 My background in Customer Operations has given me a strong understanding of business processes, customer behaviour and the metrics that drive business performance.
 
@@ -69,11 +69,11 @@ Throughout my professional experience, I've analysed operational data, developed
 
 Combining this experience with my technical training allows me to approach data challenges from both a business and technical perspective, connecting business requirements with practical data solutions.
 
-## ✏️ Continuous Learning
+## ✏️ Continuous learning
 
 I'm continuously developing my skills in Data Analytics and Data Engineering through hands on learning, technical exercises and practical projects, exploring modern data tools and applying them to real world business challenges.
 
-## 🧲 Connect With Me
+## 🧲 Connect with me
 
 Curious about my professional journey, my experience across different industries, or how I can help your business turn data into actionable insights and meaningful improvements? I'd love to connect, exchange ideas and explore how I could contribute to your team. I'm always open to new opportunities, interesting challenges and collaborations where I can learn, contribute and make a meaningful impact.
 
