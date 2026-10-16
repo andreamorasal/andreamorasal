@@ -11,24 +11,31 @@ I enjoy combining my Customer Operations expertise with technical data skills to
 ## ⚙️ Technical skills
 
 **Programming & data analysis**
+
 Python, SQL, Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning and Data Validation
 
 **Data engineering & transformation**
+
 ETL (Extract, Transform, Load), Data Pipelines, Data Modelling, dbt, Apache Airflow, Apache NiFi, Docker
 
 **Big data & stream processing**
+
 Apache Spark, PySpark, Apache Kafka
 
 **Databases & data platforms**
+
 Snowflake, Google BigQuery, Databricks, MySQL
 
 **Business intelligence & visualisation**
+
 Tableau, Power BI, Looker, Dashboard development, KPI reporting, Data visualisation
 
 **Version control & automation**
+
 Git, GitHub, Zapier
 
 **Customer operations & business analytics**
+
 Customer analytics, customer segmentation, customer retention and churn analysis, customer relationship management (CRM), HubSpot, operational reporting, business performance analysis, process improvement.
 
 ## 🧩 Professional background
