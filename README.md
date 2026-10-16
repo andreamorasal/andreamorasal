@@ -1,12 +1,12 @@
 # Hi, I'm Andrea 👋
 
-### Data Analytics | Data Engineering | Business Intelligence | Customer Operations Expertise
+### Data Analytics | Data Engineering | Business Intelligence | Customer Analytics | Customer Operations Expertise | International Experience
 
 I'm a data and business professional with expertise in **Customer Operations, Business Analytics and Performance Reporting**. My professional background includes analysing customer behaviour, developing KPI dashboards, monitoring business performance, improving customer retention and identifying opportunities to optimise operational processes.
 
 I completed intensive, hands on Data Analyst and Data Engineering bootcamps, building on my business experience with technical skills in data analysis, data transformation, data modelling, pipeline orchestration and batch and real time data processing.
 
-I enjoy combining my Customer Operations expertise with technical data skills to transform raw data into reliable, meaningful insights, improve business processes and support data driven decision making.
+I enjoy combining my Customer Operations expertise with technical data skills to transform raw data into meaningful insights, improve business processes and support data driven decision making. With international experience across e commerce, SaaS and retail, I've developed an understanding of different business models, customer needs and operational challenges. I'm motivated by new challenges and particularly enjoy exploring unfamiliar industries, learning new things and bringing a fresh perspective to the teams I work with. I believe that combining curiosity, adaptability and analytical thinking can create value for any business.
 
 ## 🛠️ Technical Skills
 
@@ -75,7 +75,9 @@ I'm continuously developing my skills in Data Analytics and Data Engineering thr
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+Curious about my professional journey, my experience across different industries, or how I can help your business turn data into actionable insights and meaningful improvements? I'd love to connect, exchange ideas and explore how I could contribute to your team. I'm always open to new opportunities, interesting challenges and collaborations where I can learn, contribute and make a meaningful impact.
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/andremss)
 - **GitHub:** [Explore my repositories](https://github.com/andreamorasal)
 
-I'm open to opportunities in **Data Analytics, Business Intelligence, Analytics Engineering and Data Engineering** in the Netherlands.
+I'm open to opportunities in Customer Analytics, Data Analytics, Business Intelligence, Analytics Engineering and Data Engineering in the Netherlands, where I can combine my business experience and technical skills to deliver meaningful impact.
