@@ -1,6 +1,6 @@
 # Hi, I'm Andrea 🪄
 
-### 🌍 Data Analytics | Data Engineering | Business Intelligence | Customer Analytics | Customer Operations Expertise | International Experience 
+### 🌍 Data Analytics | Data Engineering | Business Intelligence | CRM Engineering | Customer Analytics | Customer Operations Expertise | International Experience 
 
 I'm a data and business professional with expertise in **Customer Operations, Business Analytics and Performance Reporting**. My professional background includes analysing customer behaviour, developing KPI dashboards, monitoring business performance, improving customer retention and identifying opportunities to optimise operational processes.
 
